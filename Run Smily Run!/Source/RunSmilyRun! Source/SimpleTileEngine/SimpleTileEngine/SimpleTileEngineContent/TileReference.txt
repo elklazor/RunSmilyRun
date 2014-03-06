@@ -1,0 +1,8 @@
+0.Sky
+1.Grass
+2.Dirt
+3.Rock
+4.Error
+5.Sand
+6.Water
+7.WaterFalling
