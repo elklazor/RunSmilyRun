@@ -4,7 +4,7 @@ Thanks for downloading Run Smily Run.
 Report any errors to: uberhaxnovamegasuper@gmail.com
 
 
-Open the editor and make your map. Make shure you include only one tile of the type "5" as this will set the starting position.
+Open the editor and make your map. Make sure you include only one tile of the type "5" as this will set the starting position.
 Save the map as "map" or "MAP" and put it in your Run Smily Run/Content/MapLayouts folder.
 Dont forget to add a couple of tile #6 (finish tiles). 
 The collision is a bit bugged, but it works if you jump as soon as you land on a new area.
